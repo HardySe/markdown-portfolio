@@ -1,4 +1,3 @@
-#### Hello
 ---
 layout: default
 ---
